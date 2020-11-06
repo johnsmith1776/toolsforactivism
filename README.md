@@ -2,9 +2,9 @@
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+This list is forked from a project by drewrwilson. It is under the Creative Commons license, and is therefore free to appropriate and modify. It includes tools used by various left-wing protest groups and extremists like Antifa. I think it's high time we on the Right start closing the gap in regards to technology and street organizing, and this could be a start.
 
-Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
+Below is a curated list of awesome digital tools for activism. These are tools for conservatives and right-wingers that are campaigning, organizing or communicating. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
 ## Table of Contents
 
@@ -33,14 +33,10 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Software as a service:
 
- * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service.
- * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
- * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
- * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
- * [MoveOn's Petition Platform](https://petitions.moveon.org/) - Start your own petition on MoveOn's hosted platform. If your petition gains traction, MoveOn staff may help support you.
+ * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives.
  
 ## Operating Systems:
 
